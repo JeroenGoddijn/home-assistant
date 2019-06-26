@@ -1,0 +1,9 @@
+{
+    "domain": "usps_informed_delivery",
+    "name": "USPS Informed Delivery",
+    "documentation": "https://www.home-assistant.io/components/usps_informed_delivery",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [],
+    "config_flow": false
+  }
